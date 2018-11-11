@@ -3,6 +3,8 @@
 use strict;
 use warnings;
 use Getopt::Std;
+use FindBin 1.51 qw( $RealBin );
+use lib $RealBin;
 use PsConfig;
 
 # Usage: mkmk [-einst] [ -d src ] [-o out]
