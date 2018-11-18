@@ -1,4 +1,11 @@
-Frontier = thinner Border
-
 At the very beginning:
 perl mkmk.pl
+
+---
+
+Frontier = thinner Border
+
+---
+
+Colours:
+XColorTable, line 250 18-defs.ps
